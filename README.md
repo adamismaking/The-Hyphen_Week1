@@ -21,6 +21,12 @@ The core interaction is based on **time in a state**. Tiling the device initiate
   - **Collector:** Buzzer (-)
   - **Buzzer (+):** 5V
 
+## Image Documentation
+*Place project photos, breadboard diagrams, and process images here.*
+
+![The Hyphen Visualizer State](https://via.placeholder.com/800x400.png?text=The+Hyphen+3D+Visualizer+Preview)
+*(Example Placeholder)*
+
 ## Installation & Usage
 
 ### 1. Hardware (Arduino/PlatformIO)
